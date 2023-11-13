@@ -1,5 +1,8 @@
 /*
     Main program for Project 4
+
+    Author: Danielle
+    Program: Implementing a class that uses stack
 */
 #include <iostream>
 #include <stack>
